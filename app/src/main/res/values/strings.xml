@@ -28,7 +28,7 @@
     <string name="choose_language">Choose a language</string>
     <string name="language">Language</string>
     <string name="english_language">English</string>
-    <string name="spanish_language">Spanish</string>
+    <string name="spanish_language">Chinese</string>
 
     <string name="choose_a_metric_unit">Choose a metric unit</string>
     <string name="measurement_unit">Measurement Unit</string>
@@ -60,7 +60,6 @@
         <item>@string/kelvin</item>
     </string-array>
 
-    <!-- Countries names in spanish for searcher -->
     <string name="af">Afganistán</string>
     <string name="al">Albania</string>
     <string name="de">Alemania</string>

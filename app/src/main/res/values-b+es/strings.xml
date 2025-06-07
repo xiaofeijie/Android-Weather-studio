@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WeatherProject</string>
-    <string name="credits">Hecho por Juan Antonio Buitrago B.</string>
+    <string name="app_name">天气大师</string>
+    <string name="credits">制作人 刘逸飞 陈飞杰 郑重行.</string>
 
-    <string name="gps_button_descriptor">Icono de gps</string>
-    <string name="menu_icon_descriptor">Icono de menú</string>
-    <string name="Icon_weather_descriptor">Icono del tiempo actual</string>
-    <string name="next_day_icon_descriptor">Icono día siguiente</string>
+    <string name="gps_button_descriptor">gps图标</string>
+    <string name="menu_icon_descriptor">menu图标</string>
+    <string name="Icon_weather_descriptor">当前天气图标</string>
+    <string name="next_day_icon_descriptor">下一天图标</string>
 
-    <string name="thermal_sensation">Sensación térmica</string>
-    <string name="humidity">Humedad</string>
-    <string name="wind">Viento</string>
-    <string name="next_4_days">Próximos 4 días</string>
+    <string name="thermal_sensation">热感</string>
+    <string name="humidity">湿度</string>
+    <string name="wind">风力</string>
+    <string name="next_4_days">接下来四天</string>
 
-    <string name="search_hint">Buscar ciudad…</string>
+    <string name="search_hint">搜索城市</string>
 
-    <string name="noInternetMessage">No hay conexión a Internet. Por favor, conéctese a una red.</string>
-    <string name="firstStartText">Para comenzar, busque una ciudad en el explorador o con el botón GPS</string>
+    <string name="noInternetMessage">无网络连接，请联网.</string>
+    <string name="firstStartText">请先搜索一座城市或打开GPS定位</string>
 
     <string name="temperature"> %1$dº</string>
     <string name="city_name">%1$s, %2$s</string>
@@ -25,30 +25,30 @@
     <string name="wind_speed">%1$d m/s</string>
 
 
-    <string name="settings_label">Configuración</string>
+    <string name="settings_label">设置</string>
 
-    <string name="choose_language">Selecciona un idioma</string>
-    <string name="language">Idioma</string>
-    <string name="english_language">Inglés</string>
-    <string name="spanish_language">Español</string>
+    <string name="choose_language">选择语言</string>
+    <string name="language">语言</string>
+    <string name="english_language">英语</string>
+    <string name="spanish_language">中文</string>
 
-    <string name="choose_a_metric_unit">Elige una unidad métrica</string>
-    <string name="measurement_unit">Unidad de Medida</string>
-    <string name="celsius">Celsius (ºC)</string>
-    <string name="fahrenheit">Fahrenheit (ºF)</string>
-    <string name="kelvin">Kelvin</string>
+    <string name="choose_a_metric_unit">选择公制单位</string>
+    <string name="measurement_unit">测量单位</string>
+    <string name="celsius">摄氏度 (ºC)</string>
+    <string name="fahrenheit">华氏度 (ºF)</string>
+    <string name="kelvin">开尔文</string>
 
-    <string name="more_locations">Más lugares</string>
-    <string name="touch_to_save_location">Buscar ciudad</string>
+    <string name="more_locations">更多地点</string>
+    <string name="touch_to_save_location">搜索城市</string>
 
     <string-array name="days_of_week">
-        <item>Domingo</item>
-        <item>Lunes</item>
-        <item>Martes</item>
-        <item>Miércoles</item>
-        <item>Jueves</item>
-        <item>Viernes</item>
-        <item>Sábado</item>
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
     </string-array>
 
     <string-array name="metric_units">
@@ -62,7 +62,6 @@
         <item>@string/spanish_language</item>
     </string-array>
 
-    <!-- Countries names in spanish for searcher -->
     <string name="af">Afganistán</string>
     <string name="al">Albania</string>
     <string name="de">Alemania</string>
