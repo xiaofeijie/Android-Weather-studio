@@ -239,5 +239,17 @@
             android:orientation="horizontal"
             app:layout_constraintGuide_percent="0.9" />
 
+        <TextView
+            android:id="@+id/textView2"
+            style="@style/TextAppearance.Material3.LabelSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:text="@string/credits"
+            android:textColor="@android:color/secondary_text_dark_nodisable"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 </com.google.android.material.navigation.NavigationView>
