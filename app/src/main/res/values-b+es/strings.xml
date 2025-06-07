@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherProject</string>
+    <string name="credits">Hecho por Juan Antonio Buitrago B.</string>
+
+    <string name="gps_button_descriptor">Icono de gps</string>
+    <string name="menu_icon_descriptor">Icono de menú</string>
+    <string name="Icon_weather_descriptor">Icono del tiempo actual</string>
+    <string name="next_day_icon_descriptor">Icono día siguiente</string>
+
+    <string name="thermal_sensation">Sensación térmica</string>
+    <string name="humidity">Humedad</string>
+    <string name="wind">Viento</string>
+    <string name="next_4_days">Próximos 4 días</string>
+
+    <string name="search_hint">Buscar ciudad…</string>
+
+    <string name="noInternetMessage">No hay conexión a Internet. Por favor, conéctese a una red.</string>
+    <string name="firstStartText">Para comenzar, busque una ciudad en el explorador o con el botón GPS</string>
+
+    <string name="temperature"> %1$dº</string>
+    <string name="city_name">%1$s, %2$s</string>
+    <string name="humidity_template"> %1$d%%</string>
+    <string name="wind_speed_imperial">%1$d mph</string>
+    <string name="wind_speed">%1$d m/s</string>
+
+
+    <string name="settings_label">Configuración</string>
+
+    <string name="choose_language">Selecciona un idioma</string>
+    <string name="language">Idioma</string>
+    <string name="english_language">Inglés</string>
+    <string name="spanish_language">Español</string>
+
+    <string name="choose_a_metric_unit">Elige una unidad métrica</string>
+    <string name="measurement_unit">Unidad de Medida</string>
+    <string name="celsius">Celsius (ºC)</string>
+    <string name="fahrenheit">Fahrenheit (ºF)</string>
+    <string name="kelvin">Kelvin</string>
+
+    <string name="more_locations">Más lugares</string>
+    <string name="touch_to_save_location">Buscar ciudad</string>
+
+    <string-array name="days_of_week">
+        <item>Domingo</item>
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miércoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+        <item>Sábado</item>
+    </string-array>
+
+    <string-array name="metric_units">
+        <item>@string/celsius</item>
+        <item>@string/fahrenheit</item>
+        <item>@string/kelvin</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>@string/english_language</item>
+        <item>@string/spanish_language</item>
+    </string-array>
+
+    <!-- Countries names in spanish for searcher -->
+    <string name="af">Afganistán</string>
+    <string name="al">Albania</string>
+    <string name="de">Alemania</string>
+    <string name="ad">Andorra</string>
+    <string name="ao">Angola</string>
+    <string name="ag">Antigua y Barbuda</string>
+    <string name="sa">Arabia Saudita</string>
+    <string name="dz">Argelia</string>
+    <string name="ar">Argentina</string>
+    <string name="am">Armenia</string>
+    <string name="au">Australia</string>
+    <string name="at">Austria</string>
+    <string name="az">Azerbaiyán</string>
+    <string name="bs">Bahamas</string>
+    <string name="bd">Bangladés</string>
+    <string name="bb">Barbados</string>
+    <string name="bh">Baréin</string>
+    <string name="be">Bélgica</string>
+    <string name="bz">Belice</string>
+    <string name="bj">Benín</string>
+    <string name="by">Bielorrusia</string>
+    <string name="bo">Bolivia</string>
+    <string name="ba">Bosnia y Herzegovina</string>
+    <string name="bw">Botsuana</string>
+    <string name="br">Brasil</string>
+    <string name="bn">Brunéi</string>
+    <string name="bg">Bulgaria</string>
+    <string name="bf">Burkina Faso</string>
+    <string name="bi">Burundi</string>
+    <string name="bt">Bután</string>
+    <string name="cv">Cabo Verde</string>
+    <string name="kh">Camboya</string>
+    <string name="cm">Camerún</string>
+    <string name="ca">Canadá</string>
+    <string name="qa">Catar</string>
+    <string name="td">Chad</string>
+    <string name="cl">Chile</string>
+    <string name="cn">China</string>
+    <string name="cy">Chipre</string>
+    <string name="co">Colombia</string>
+    <string name="km">Comoras</string>
+    <string name="kp">Corea del Norte</string>
+    <string name="kr">Corea del Sur</string>
+    <string name="ci">Costa de Marfil</string>
+    <string name="cr">Costa Rica</string>
+    <string name="hr">Croacia</string>
+    <string name="cu">Cuba</string>
+    <string name="dk">Dinamarca</string>
+    <string name="dm">Dominica</string>
+    <string name="ec">Ecuador</string>
+    <string name="eg">Egipto</string>
+    <string name="sv">El Salvador</string>
+    <string name="ae">Emiratos Árabes Unidos</string>
+    <string name="er">Eritrea</string>
+    <string name="sk">Eslovaquia</string>
+    <string name="si">Eslovenia</string>
+    <string name="es">España</string>
+    <string name="us">Estados Unidos</string>
+    <string name="ee">Estonia</string>
+    <string name="et">Etiopía</string>
+    <string name="ph">Filipinas</string>
+    <string name="fi">Finlandia</string>
+    <string name="fj">Fiyi</string>
+    <string name="fr">Francia</string>
+    <string name="ga">Gabón</string>
+    <string name="gm">Gambia</string>
+    <string name="ge">Georgia</string>
+    <string name="gh">Ghana</string>
+    <string name="gd">Granada</string>
+    <string name="gr">Grecia</string>
+    <string name="gt">Guatemala</string>
+    <string name="gn">Guinea</string>
+    <string name="gw">Guinea-Bisáu</string>
+    <string name="gq">Guinea Ecuatorial</string>
+    <string name="gy">Guyana</string>
+    <string name="ht">Haití</string>
+    <string name="hn">Honduras</string>
+    <string name="hu">Hungría</string>
+    <string name="in">India</string>
+    <string name="id">Indonesia</string>
+    <string name="iq">Irak</string>
+    <string name="ir">Irán</string>
+    <string name="ie">Irlanda</string>
+    <string name="is">Islandia</string>
+    <string name="mh">Islas Marshall</string>
+    <string name="sb">Islas Salomón</string>
+    <string name="il">Israel</string>
+    <string name="it">Italia</string>
+    <string name="jm">Jamaica</string>
+    <string name="jp">Japón</string>
+    <string name="jo">Jordania</string>
+    <string name="kz">Kazajistán</string>
+    <string name="ke">Kenia</string>
+    <string name="kg">Kirguistán</string>
+    <string name="ki">Kiribati</string>
+    <string name="kw">Kuwait</string>
+    <string name="la">Laos</string>
+    <string name="ls">Lesoto</string>
+    <string name="lv">Letonia</string>
+    <string name="lb">Líbano</string>
+    <string name="lr">Liberia</string>
+    <string name="ly">Libia</string>
+    <string name="li">Liechtenstein</string>
+    <string name="lt">Lituania</string>
+    <string name="lu">Luxemburgo</string>
+    <string name="mk">Macedonia del Norte</string>
+    <string name="mg">Madagascar</string>
+    <string name="my">Malasia</string>
+    <string name="mw">Malaui</string>
+    <string name="mv">Maldivas</string>
+    <string name="ml">Malí</string>
+    <string name="mt">Malta</string>
+    <string name="ma">Marruecos</string>
+    <string name="mu">Mauricio</string>
+    <string name="mr">Mauritania</string>
+    <string name="mx">México</string>
+    <string name="fm">Micronesia</string>
+    <string name="md">Moldavia</string>
+    <string name="mc">Mónaco</string>
+    <string name="mn">Mongolia</string>
+    <string name="me">Montenegro</string>
+    <string name="mz">Mozambique</string>
+    <string name="mm">Birmania</string>
+    <string name="na">Namibia</string>
+    <string name="nr">Nauru</string>
+    <string name="np">Nepal</string>
+    <string name="ni">Nicaragua</string>
+    <string name="ne">Níger</string>
+    <string name="ng">Nigeria</string>
+    <string name="no">Noruega</string>
+    <string name="nz">Nueva Zelanda</string>
+    <string name="om">Omán</string>
+    <string name="nl">Países Bajos</string>
+    <string name="pk">Pakistán</string>
+    <string name="pw">Palaos</string>
+    <string name="pa">Panamá</string>
+    <string name="pg">Papúa Nueva Guinea</string>
+    <string name="py">Paraguay</string>
+    <string name="pe">Perú</string>
+    <string name="pl">Polonia</string>
+    <string name="pt">Portugal</string>
+    <string name="gb">Reino Unido</string>
+    <string name="cf">República Centroafricana</string>
+    <string name="cz">República Checa</string>
+    <string name="cg">República del Congo</string>
+    <string name="cd">República Democrática del Congo</string>
+    <string name="dor">República Dominicana</string>
+    <string name="rw">Ruanda</string>
+    <string name="ro">Rumania</string>
+    <string name="ru">Rusia</string>
+    <string name="ws">Samoa</string>
+    <string name="kn">San Cristóbal y Nieves</string>
+    <string name="sm">San Marino</string>
+    <string name="vc">San Vicente y las Granadinas</string>
+    <string name="lc">Santa Lucía</string>
+    <string name="st">Santo Tomé y Príncipe</string>
+    <string name="sn">Senegal</string>
+    <string name="rs">Serbia</string>
+    <string name="sc">Seychelles</string>
+    <string name="sl">Sierra Leona</string>
+    <string name="sg">Singapur</string>
+    <string name="sy">Siria</string>
+    <string name="so">Somalia</string>
+    <string name="lk">Sri Lanka</string>
+    <string name="sz">Suazilandia</string>
+    <string name="za">Sudáfrica</string>
+    <string name="sd">Sudán</string>
+    <string name="ss">Sudán del Sur</string>
+    <string name="se">Suecia</string>
+    <string name="ch">Suiza</string>
+    <string name="sr">Surinam</string>
+    <string name="th">Tailandia</string>
+    <string name="tz">Tanzania</string>
+    <string name="tj">Tayikistán</string>
+    <string name="tl">Timor Oriental</string>
+    <string name="tg">Togo</string>
+    <string name="to">Tonga</string>
+    <string name="tt">Trinidad y Tobago</string>
+    <string name="tn">Túnez</string>
+    <string name="tm">Turkmenistán</string>
+    <string name="tr">Turquía</string>
+    <string name="tv">Tuvalu</string>
+    <string name="ua">Ucrania</string>
+    <string name="ug">Uganda</string>
+    <string name="uy">Uruguay</string>
+    <string name="uz">Uzbekistán</string>
+    <string name="vu">Vanuatu</string>
+    <string name="ve">Venezuela</string>
+    <string name="vn">Vietnam</string>
+    <string name="ye">Yemen</string>
+    <string name="dj">Yibuti</string>
+    <string name="zm">Zambia</string>
+    <string name="zw">Zimbabue</string>
+</resources>

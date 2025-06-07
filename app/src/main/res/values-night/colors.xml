@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="principal_card_background">#462A98</color>
+    <color name="first_day_card_background">#236777</color>
+    <color name="second_day_card_background">#980319</color>
+    <color name="third_day_card_background">#879813</color>
+    <color name="fourth_day_card_background">#5D2A8B</color>
+    <color name="card_text">@color/md_theme_dark_onPrimaryContainer</color>
+</resources>

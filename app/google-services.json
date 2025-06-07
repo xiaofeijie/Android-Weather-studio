@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257347518844",
+    "project_id": "weatherproject-juanantbuit",
+    "storage_bucket": "weatherproject-juanantbuit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257347518844:android:b5fd163a5207880b91e4f9",
+        "android_client_info": {
+          "package_name": "com.juanantbuit.weatherproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257347518844-i24jklce885uo3bkbrtaj8nit5gjhd39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC8ZCryFx6k5Pe_bm1PqWFKVXgOsyRZeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257347518844-i24jklce885uo3bkbrtaj8nit5gjhd39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
